@@ -15,7 +15,7 @@ Additionally, the Social Simulator can contextualize different decisions by refe
 Social system simulations are tools used to model the complex interactions within societies, including the relationships between governments, economies, and populations. These simulations help policymakers and researchers understand how different elements of society influence one another, such as how economic policies might impact inequality, or how education reforms could affect future labor markets. By adjusting variables—like tax rates, healthcare access, or legal frameworks—social system simulations allow users to explore the potential outcomes of policy decisions before they are implemented in the real world. This helps in predicting not only intended consequences but also potential unintended side effects, offering valuable insights into governance and societal planning.
 
 #
-### Nepotism
+### Nepotism Simulations
 
 ![Nepotism](https://github.com/user-attachments/assets/47c84750-04c9-4727-8695-f3ce2ffba2f9)
 
