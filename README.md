@@ -15,6 +15,13 @@ Additionally, the Social Simulator can contextualize different decisions by refe
 Social system simulations are tools used to model the complex interactions within societies, including the relationships between governments, economies, and populations. These simulations help policymakers and researchers understand how different elements of society influence one another, such as how economic policies might impact inequality, or how education reforms could affect future labor markets. By adjusting variables—like tax rates, healthcare access, or legal frameworks—social system simulations allow users to explore the potential outcomes of policy decisions before they are implemented in the real world. This helps in predicting not only intended consequences but also potential unintended side effects, offering valuable insights into governance and societal planning.
 
 #
+### Nepotism
+
+![Nepotism](https://github.com/user-attachments/assets/47c84750-04c9-4727-8695-f3ce2ffba2f9)
+
+Simulating nepotism in a social or governance system involves modeling how favoritism based on familial or personal connections impacts resource allocation, job opportunities, and social trust. This simulation would explore scenarios where individuals or groups with privileged access to decision-makers gain disproportionate advantages, potentially at the expense of merit-based systems. It can highlight the ripple effects on societal equity, economic productivity, and public perceptions of fairness, as well as how such systems perpetuate cycles of inequality. For instance, the model could analyze how nepotism in hiring practices affects workplace morale, innovation, or social mobility. Simulations like these allow users to examine potential reforms, such as stricter anti-nepotism regulations, transparency measures, or meritocratic policies, and evaluate their effectiveness in fostering a fairer social structure.
+
+#
 ### Social Error Simulations
 
 Social error simulations focus on understanding how mistakes, misunderstandings, or miscommunications can ripple through a society and affect its systems. These models explore the consequences of errors in governance, legal systems, or public health management. For example, an error in disseminating critical health information during a pandemic could lead to a breakdown in public trust, exacerbating the spread of disease. Social error simulations help identify vulnerabilities in the system and offer strategies for minimizing the damage of such errors, such as through better communication channels or more resilient policy designs. By examining these potential pitfalls, these simulations contribute to more robust decision-making processes and prepare institutions to manage crises more effectively.
