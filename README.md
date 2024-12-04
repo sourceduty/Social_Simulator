@@ -40,6 +40,8 @@ Social movement simulations model how collective actions, like protests, campaig
 [Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 <br>
 [Group Optimizer](https://github.com/sourceduty/Group_Optimizer)
+<br>
+[Nepotism](https://github.com/sourceduty/Nepotism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
